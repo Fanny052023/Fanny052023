@@ -1,12 +1,7 @@
 # Hola 👋 Soy Fanny Tunjano
-
 [![Tu foto de perfil](https://avatars.githubusercontent.com/u/130177891?v=4&size=128)](https://github.com/Fanny052023)
-
-Ingeniera en Informática | Desarrolladora de Software apasionada por crear soluciones innovadoras.
-
 ## Sobre mí
-
-Soy Ingeniera en Informática y Desarrolladora de Software con un fuerte interés en la creación de aplicaciones robustas y eficientes. Actualmente estoy trabajando en proyectos desafiantes indivudual como colaborativos, explorando nuevas tendencias en desarrollo, me entusiasma la aplicación de mis conocimientos para resolver problemas complejos y generar gran valor a través del software y estoy abierta a colaborar en proyectos que involucren las tecnologías en las que tengo experiencia para seguir creciendo profesionalmente.
+Ingeniera en Informática | Desarrolladora de Software apasionada por crear soluciones innovadoras, con un fuerte interés en la creación de aplicaciones robustas y eficientes. Actualmente estoy trabajando en proyectos desafiantes indivudual como colaborativos, explorando nuevas tendencias en desarrollo, me entusiasma la aplicación de mis conocimientos para resolver problemas complejos y generar gran valor a través del software y estoy abierta a colaborar en proyectos que involucren las tecnologías en las que tengo experiencia para seguir creciendo profesionalmente.
 
 ## Tecnologías y Habilidades
 
