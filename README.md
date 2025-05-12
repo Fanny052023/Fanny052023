@@ -30,4 +30,4 @@ Ingeniera en Informática | Desarrolladora de Software apasionada por crear solu
 
 <a href="mailto:fannytunjano25@hotmail.com">fannytunjano25@hotmail.com</a>
 
- Teléfono: 2994382074
+ 
