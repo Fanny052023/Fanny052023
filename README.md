@@ -28,6 +28,6 @@ Ingeniera en Informática | Desarrolladora de Software apasionada por crear solu
 
 ## Contacto
 
-<a href="mailto:fannytunjano25@hotmail.com">fannytunjano25@hotmail.com</a>
+<a href="mailto:ingfannytunjano@gmail.com">ingfannytunjano@gmail.com</a>
 
  
